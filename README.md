@@ -1,5 +1,5 @@
 # accessibility
-Everything about web accessibility
+Everything about web accessibility and more.
 
 # It's more than WCAG
 ## Blogs/Articles
